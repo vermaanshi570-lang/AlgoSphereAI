@@ -1022,3 +1022,9 @@ void processQueue(queue<int>& q)
         "implemented pattern yet."
     );
 }
+int main()
+{
+    aiAssistant();
+
+    return 0;
+}
